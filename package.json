@@ -1,0 +1,49 @@
+{
+  "name": "e-commerce-using-react",
+  "version": "1.0.0",
+  "description": "A frontend-only e-commerce web application built with React. Features include product listing and search functionality. Product data is stored locally within the application, simulating a product database. This project focuses on front-end development with no backend, using mock data to manage state and functionality.",
+  "type": "module",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react-swc": "^3.5.0",
+    "eslint": "^9.15.0",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.14",
+    "globals": "^15.12.0",
+    "vite": "^6.0.1"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vaibhav-Naik-26/E-Commerce_using_React.git"
+  },
+  "keywords": [
+    "react",
+    "e-commerce",
+    "web application",
+    "frontend",
+    "mock data",
+    "product listing",
+    "search functionality"
+  ],
+  "author": "Vaibhav Naik <vaibhavnaik2004@gmail.com> (https://vaibhav-naik-26.github.io)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Vaibhav-Naik-26/E-Commerce_using_React/issues",
+    "email": "vaibhavnaik2004@gmail.com"
+  },
+  "homepage": "https://vaibhav-naik-26.github.io/E-Commerce_using_React",
+  "private": true
+}
